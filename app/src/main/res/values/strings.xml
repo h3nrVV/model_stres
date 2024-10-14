@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BioPredict</string>
+    <string name="sleep_duration_hours">Duración del Sueño (horas)</string>
+    <string name="enter_hours_slept">Ingrese horas dormidas</string>
+    <string name="quality_of_sleep">Calidad del Sueño</string> <!-- Nueva cadena -->
+    <string name="enter_quality_of_sleep">Ingrese calidad del sueño</string> <!-- Nueva cadena -->
+    <string name="heart_rate_bpm">Frecuencia Cardíaca (bpm)</string>
+    <string name="enter_resting_heart_rate">Ingrese frecuencia cardíaca en reposo</string>
+    <string name="physical_activity_minutes">Actividad Física (minutos)</string>
+    <string name="enter_minutes_of_activity">Ingrese minutos de actividad</string>
+    <string name="nivel_de_estr_s">Nivel de Estrés</string>
+    <string name="predecir">Predecir</string>
+    <string name="predicci_n_del_nivel_de_estr_s">Predicción del nivel de estrés</string>
+</resources>
